@@ -1,6 +1,7 @@
 """Stage 1: describe stockouts. Usage:
     python scripts/run_stage1.py            # real data (after download_data.py)
     python scripts/run_stage1.py --simulated
+    
 """
 import argparse
 import sys
