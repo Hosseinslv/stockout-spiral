@@ -1,0 +1,9 @@
+numpy
+pandas
+pyarrow
+duckdb
+linearmodels
+statsmodels
+lightgbm
+huggingface_hub
+pytest

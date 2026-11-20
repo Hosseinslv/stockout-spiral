@@ -1,0 +1,5 @@
+discount_band,store_product_days,open_hours_out_of_stock_pct,days_with_any_stockout_pct,avg_daily_sales
+0  full price,2184531,20.25,43.04,0.83
+1  up to 10 % off,721282,17.31,43.5,1.02
+2  10-20 % off,847707,20.37,46.23,0.93
+3  more than 20 % off,746480,20.71,46.37,1.53

@@ -1,0 +1,17 @@
+                         Absorbing LS Estimation Summary                          
+==================================================================================
+Dep. Variable:         stockout_share   R-squared:                          0.0619
+Estimator:               Absorbing LS   Adj. R-squared:                     0.0615
+No. Observations:             4500000   F-statistic:                        433.82
+Date:                Thu, Nov 12 2026   P-value (F-stat):                   0.0000
+Time:                        16:42:28   Distribution:                      chi2(3)
+Cov. Estimator:             clustered   R-squared (No Effects):             0.0014
+                                        Variables Absorbed:                 1768.0
+                               Parameter Estimates                                
+==================================================================================
+                Parameter  Std. Err.     T-stat    P-value    Lower CI    Upper CI
+----------------------------------------------------------------------------------
+discount_depth     0.1170     0.0057     20.698     0.0000      0.1059      0.1281
+rain              -0.0001  9.519e-05    -1.1237     0.2611     -0.0003    7.96e-05
+holiday            0.0008     0.0012     0.6861     0.4927     -0.0016      0.0033
+==================================================================================
